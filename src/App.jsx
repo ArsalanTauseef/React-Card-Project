@@ -91,7 +91,8 @@ function App() {
   return (
     <>
       <div className="main-content">
-        <h1>HEADING</h1>
+        <h1>Inciter's project</h1>
+        <h6>react-card-project - Arsalan</h6>
         <hr />
         <br />
         <div>
