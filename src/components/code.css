@@ -15,6 +15,18 @@
     width: 400px;
 }
 
+@media (max-width: 600px ){
+    .user-card {
+        width: 70%;
+    }
+    html,body {
+        width: 100dvh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+    
 
 .user-image {
     width: 100px;
